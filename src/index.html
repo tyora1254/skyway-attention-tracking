@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>SkyWay Tutorial</title>
+  </head>
+  <body>
+    <!-- 親要素に position: relative を指定し、ビデオとキャンバスを重ねます -->
+    <style>
+    /* ページ全体の余白をなくし、スクロールを消す */
+    body, html {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden; /* フルスクリーンにするためスクロールバーを非表示 */
+      background-color: #000; /* 映像読み込み前の背景を黒にする */
+    }
+
+    /* 映像とキャンバスを包むコンテナ */
+    #video-container {
+      position: relative;
+      width: 100vw;
+      /* 100dvh: スマホのアドレスバーの増減に影響されない最新のフルスクリーン単位 */
+      height: 100dvh; 
+    }
+
+    /* 映像本体 */
+    #local-video {
+      width: 100%;
+      height: 100%;
+      /* 映像の縦横比を維持したまま、はみ出した部分を切り取って全画面に敷き詰める */
+      object-fit: cover; 
+      display: block;
+    }
+
+    /* 重ねるキャンバス */
+    #overlay-canvas {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none; /* マウスクリック等を貫通させる */
+    }
+
+    /* ボタン類などを映像の上にフロートさせるためのスタイル（必要に応じて） */
+    #ui-container {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      z-index: 10;
+      background: rgba(255, 255, 255, 0.8);
+      padding: 10px;
+      border-radius: 8px;
+    }
+    </style>
+
+    <div id="video-container">
+      <video id="local-video" playsinline autoplay muted></video>
+      <canvas id="overlay-canvas"></canvas>
+      
+      <!-- UI部品を映像の上に重ねる場合はコンテナの中に入れます -->
+      <div id="ui-container">
+        <div style="margin-bottom: 10px; padding: 5px; background: rgba(238, 238, 238, 0.9); border-radius: 4px;">
+          <label><input type="radio" name="role" value="presenter" checked> Presenter </label>
+          <label><input type="radio" name="role" value="audience"> Audience</label>
+        </div>
+
+        <div>
+          <input type="text" id="room-name" placeholder="Room Name">
+          <button id="join">Join</button>
+          <button id="leave">Leave</button>
+        </div>
+        <div>My ID: <span id="my-id"></span></div>
+        <div id="button-area"></div>
+        <div id="remote-media-area"></div>
+
+        <div style="margin-top: 15px; padding: 10px; background: rgba(255, 255, 255, 0.9); border-radius: 4px; border: 1px solid #ccc;">
+          <div style="font-weight: bold; margin-bottom: 5px; border-bottom: 1px solid #aaa; padding-bottom: 3px;">
+            Emotion & Gaze
+          </div>
+          
+          <div class="emotion-row" style="color: #4caf50;">
+            <div class="emotion-label">Positive</div>
+            <div class="bar-bg"><div id="posBar" class="bar-fill" style="background: #4caf50;"></div></div>
+            <div id="posText" class="score-text">0.00</div>
+          </div>
+          
+          <div class="emotion-row" style="color: #f44336;">
+            <div class="emotion-label">Negative</div>
+            <div class="bar-bg"><div id="negBar" class="bar-fill" style="background: #f44336;"></div></div>
+            <div id="negText" class="score-text">0.00</div>
+          </div>
+
+          <button id="calibrateBtn" style="margin-top: 10px; width: 100%; cursor: pointer;">
+            画面中央を見てキャリブレート(C)
+          </button>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="main.js"></script>
+  </body>
+</html>
