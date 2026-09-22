@@ -1,0 +1,49 @@
+<!DOCTYPE html><meta charset=UTF-8><meta name=viewport content="width=device-width"><title>SkyWay Tutorial</title><body>
+    
+    <style>body,html{background-color:#000;width:100%;height:100%;margin:0;padding:0;overflow:hidden}#video-container{width:100vw;height:100dvh;position:relative}#local-video{object-fit:cover;width:100%;height:100%;display:block}#overlay-canvas{pointer-events:none;width:100%;height:100%;position:absolute;top:0;left:0}#ui-container{z-index:10;background:#fffc;border-radius:8px;padding:10px;position:absolute;top:20px;left:20px}</style>
+
+    <div id=video-container>
+      <video id=local-video playsinline autoplay muted></video>
+      <canvas id=overlay-canvas></canvas>
+      
+      
+      <div id=ui-container>
+        <div style=background:#eeeeeee6;border-radius:4px;margin-bottom:10px;padding:5px>
+          <label><input type=radio name=role value=presenter checked> Presenter </label>
+          <label><input type=radio name=role value=audience> Audience</label>
+        </div>
+
+        <div>
+          <input id=room-name placeholder="Room Name">
+          <button id=join>Join</button>
+          <button id=leave>Leave</button>
+        </div>
+        <div>My ID: <span id=my-id></span></div>
+        <div id=button-area></div>
+        <div id=remote-media-area></div>
+
+        <div style="background:#ffffffe6;border:1px solid #ccc;border-radius:4px;margin-top:15px;padding:10px">
+          <div style="border-bottom:1px solid #aaa;margin-bottom:5px;padding-bottom:3px;font-weight:700">
+            Emotion &amp; Gaze
+          </div>
+          
+          <div class=emotion-row style=color:#4caf50>
+            <div class=emotion-label>Positive</div>
+            <div class=bar-bg><div id=posBar class=bar-fill style=background:#4caf50></div></div>
+            <div id=posText class=score-text>0.00</div>
+          </div>
+          
+          <div class=emotion-row style=color:#f44336>
+            <div class=emotion-label>Negative</div>
+            <div class=bar-bg><div id=negBar class=bar-fill style=background:#f44336></div></div>
+            <div id=negText class=score-text>0.00</div>
+          </div>
+
+          <button id=calibrateBtn style=cursor:pointer;width:100%;margin-top:10px>
+            画面中央を見てキャリブレート(C)
+          </button>
+        </div>
+      </div>
+    </div>
+    <script type=module src=/skyway-attention-tracking/tutorial.e6c589e1.js></script>
+  
