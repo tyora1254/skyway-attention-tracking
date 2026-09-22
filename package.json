@@ -7,6 +7,9 @@
   "type": "commonjs",
   "scripts": {
     "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html --public-url /skyway-attention-tracking/",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
@@ -15,6 +18,7 @@
   },
   "devDependencies": {
     "buffer": "^6.0.3",
+    "gh-pages": "^6.3.0",
     "parcel": "^2.16.4"
   }
 }
