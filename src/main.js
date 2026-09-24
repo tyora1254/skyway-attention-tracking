@@ -253,7 +253,10 @@ const secret = "BV6iX7LtVwMlGdM3+AUts8R7F7kfrx3vdHwPefJEVn4=";
     });
 
     //入室するとMemberオブジェクトが返ってくる
-    const me = await room.join();
+    // const me = await room.join();
+    const me = await room.join({
+      metadata: role
+    });
 
     //ID表示と metadata に役割(role)を持たせて入室
     myId.textContent = `${me.id} (${role === "presenter" ? "Presenter" : "Audience"})`;
@@ -279,55 +282,50 @@ const secret = "BV6iX7LtVwMlGdM3+AUts8R7F7kfrx3vdHwPefJEVn4=";
       }, 50);
     }    
 
-    const subscribeAndAttach = (publication) => {
-      // 3
+    const subscribeAndAttach = async (publication) => { // async に変更
       if (publication.publisher.id === me.id) return;
 
-      const subscribeButton = document.createElement("button"); // 3-1
-      subscribeButton.id = `subscribe-button-${publication.id}`;
-      subscribeButton.textContent = `${publication.publisher.id}: ${publication.contentType}`;
+      // ボタンを作らず、自動で Subscribe を実行する
+      const { stream } = await me.subscribe(publication.id);
 
-      buttonArea.appendChild(subscribeButton);
+      // データ通信(座標)を受信した場合の処理 ---
+      if (publication.contentType === "data") {
+        stream.onData.add((data) => {
+          const pos = JSON.parse(data);
+          drawCircle(pos.x, pos.y, pos.color, pos.stroke);
+        });
+        return; // 映像ではないのでここで処理終了
+      }
 
-      subscribeButton.onclick = async () => {
-        // 3-2
-        const { stream } = await me.subscribe(publication.id); // 3-2-1
-        console.log(stream)
-
-        // データ通信(座標)を受信した場合の処理 ---
-        if (publication.contentType === "data") {
-          stream.onData.add((data) => {
-            const pos = JSON.parse(data);
-            drawCircle(pos.x, pos.y, pos.color, pos.stroke);
-          });
-          return; // 映像ではないのでここで処理終了
-        }
-
-        let newMedia; // 3-2-2
-        switch (publication.contentType) {
-          case "video":
-            // 相手が「発表者」で、自分が「聴衆」なら大画面にセット
-            if (publication.publisher.metadata === "presenter" && role === "audience") {
+      let newMedia;
+      switch (publication.contentType) {
+        case "video":
+          // 相手が「発表者」で、自分が「聴衆」なら大画面にセット
+          if (publication.publisher.metadata === "presenter" && role === "audience") {
+            // Presenterは「カメラ」と「画面」の2つを配信するため、
+            // 最初に受信した方（通常は画面共有）を大画面にセットする
+            if (!localVideo.srcObject) {
               stream.attach(localVideo);
               await localVideo.play();
-              return; // 大画面にセットしたので、小窓は作らずに終了
+              return; 
             }
-            newMedia = document.createElement("video");
-            newMedia.playsInline = true;
-            newMedia.autoplay = true;
-            break;
-          case "audio":
-            newMedia = document.createElement("audio");
-            newMedia.controls = true;
-            newMedia.autoplay = true;
-            break;
-          default:
-            return;
-        }
-        newMedia.id = `media-${publication.id}`;
-        stream.attach(newMedia); // 3-2-3
-        remoteMediaArea.appendChild(newMedia);
-      };
+          }
+          // 大画面にセットしなかった映像（またはAudienceのカメラ映像）は小窓にする
+          newMedia = document.createElement("video");
+          newMedia.playsInline = true;
+          newMedia.autoplay = true;
+          break;
+        case "audio":
+          newMedia = document.createElement("audio");
+          newMedia.controls = true;
+          newMedia.autoplay = true;
+          break;
+        default:
+          return;
+      }
+      newMedia.id = `media-${publication.id}`;
+      stream.attach(newMedia); 
+      remoteMediaArea.appendChild(newMedia);
     };
 
     room.publications.forEach(subscribeAndAttach); // 1
