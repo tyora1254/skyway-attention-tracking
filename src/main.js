@@ -23,6 +23,7 @@ const secret = "BV6iX7LtVwMlGdM3+AUts8R7F7kfrx3vdHwPefJEVn4=";
   const myId = document.getElementById("my-id");
   const joinButton = document.getElementById("join");
   const leaveButton = document.getElementById('leave');
+  const uiContainer = document.getElementById("ui-container");
 
   // UI要素の取得
   const posBar = document.getElementById("posBar");
@@ -48,6 +49,9 @@ const secret = "BV6iX7LtVwMlGdM3+AUts8R7F7kfrx3vdHwPefJEVn4=";
   // 描画用の色変数
   let currentCursorColor = "rgba(255, 0, 0, 0.7)";
   let currentStrokeColor = "white";
+
+  // 他の参加者のカーソル情報を保存するオブジェクト
+  const remoteCursors = {};
 
   // 非表示用のビデオ要素(MediaPipe推論用)を作成
   const hiddenVideo = document.createElement('video');
@@ -188,7 +192,7 @@ const secret = "BV6iX7LtVwMlGdM3+AUts8R7F7kfrx3vdHwPefJEVn4=";
       // 自分が「聴衆(Audience)」なら自分の画面上にもローカルで円を描画する
       const roleElement = document.querySelector('input[name="role"]:checked');
       if (roleElement && roleElement.value === "audience") {
-          drawCircle(currentMousePos.x, currentMousePos.y, currentMousePos.color, currentMousePos.stroke);
+          drawAllCursors();
       }
 
       window.requestAnimationFrame(predictWebcam);
@@ -258,14 +262,17 @@ const secret = "BV6iX7LtVwMlGdM3+AUts8R7F7kfrx3vdHwPefJEVn4=";
       metadata: role
     });
 
+    //入室成功後にUIコンテナを非表示にする
+    uiContainer.style.display = "none";
+
     //ID表示と metadata に役割(role)を持たせて入室
     myId.textContent = `${me.id} (${role === "presenter" ? "Presenter" : "Audience"})`;
 
     //音声と映像をpublish
     if(role === "presenter"){
       if (audio) await me.publish(audio, { type: "p2p" });
-      if (video) await me.publish(video, { type: "p2p" });
-      if (window_video) await me.publish(window_video, { type: "p2p" });
+      if (video) await me.publish(video, { type: "p2p", metadata: "camera" });
+      if (window_video) await me.publish(window_video, { type: "p2p", metadata: "screen" });
 
     }else{ //role === "Audience"は音声とカメラのみをpublish
       if (audio) await me.publish(audio, { type: "p2p" });
@@ -292,7 +299,8 @@ const secret = "BV6iX7LtVwMlGdM3+AUts8R7F7kfrx3vdHwPefJEVn4=";
       if (publication.contentType === "data") {
         stream.onData.add((data) => {
           const pos = JSON.parse(data);
-          drawCircle(pos.x, pos.y, pos.color, pos.stroke);
+          remoteCursors[publication.publisher.id] = pos;
+          drawAllCursors();
         });
         return; // 映像ではないのでここで処理終了
       }
@@ -301,14 +309,12 @@ const secret = "BV6iX7LtVwMlGdM3+AUts8R7F7kfrx3vdHwPefJEVn4=";
       switch (publication.contentType) {
         case "video":
           // 相手が「発表者」で、自分が「聴衆」なら大画面にセット
-          if (publication.publisher.metadata === "presenter" && role === "audience") {
+          if (publication.publisher.metadata === "presenter" && role === "audience"&& publication.metadata === "screen") {
             // Presenterは「カメラ」と「画面」の2つを配信するため、
             // 最初に受信した方（通常は画面共有）を大画面にセットする
-            if (!localVideo.srcObject) {
-              stream.attach(localVideo);
-              await localVideo.play();
-              return; 
-            }
+            stream.attach(localVideo);
+            await localVideo.play();
+            return; 
           }
           // 大画面にセットしなかった映像（またはAudienceのカメラ映像）は小窓にする
           newMedia = document.createElement("video");
@@ -325,7 +331,7 @@ const secret = "BV6iX7LtVwMlGdM3+AUts8R7F7kfrx3vdHwPefJEVn4=";
       }
       newMedia.id = `media-${publication.id}`;
       stream.attach(newMedia); 
-      remoteMediaArea.appendChild(newMedia);
+      //remoteMediaArea.appendChild(newMedia);
     };
 
     room.publications.forEach(subscribeAndAttach); // 1
@@ -351,25 +357,41 @@ const secret = "BV6iX7LtVwMlGdM3+AUts8R7F7kfrx3vdHwPefJEVn4=";
     });
   };
 
-  function drawCircle(xRatio, yRatio, color = "rgba(255, 0, 0, 0.7)", stroke = "white") {
-    // 描画のたびにCanvasの内部ピクセルサイズを、実際の表示サイズに合わせる
+  function drawAllCursors() {
+    // 描画のたびにCanvasの内部ピクセルサイズを実際の表示サイズに合わせる
     overlayCanvas.width = overlayCanvas.clientWidth;
     overlayCanvas.height = overlayCanvas.clientHeight;
     
     // 一度キャンバスを綺麗に消去する
     ctx.clearRect(0, 0, overlayCanvas.width, overlayCanvas.height);
-    
-    // 受信した割合座標を、現在のCanvasサイズに掛け合わせて実際のピクセル位置を計算
-    const x = xRatio * overlayCanvas.width;
-    const y = yRatio * overlayCanvas.height;
-    
-    // 円の描画
-    ctx.beginPath();
-    ctx.arc(x, y, 15, 0, Math.PI * 2); // 半径15pxの円
-    ctx.fillStyle = color;
-    ctx.fill();
-    ctx.lineWidth = 2;
-    ctx.strokeStyle = stroke;
-    ctx.stroke();
+
+    // 1. 他の参加者（リモート）の円を描画
+    Object.values(remoteCursors).forEach(pos => {
+      const x = pos.x * overlayCanvas.width;
+      const y = pos.y * overlayCanvas.height;
+      
+      ctx.beginPath();
+      ctx.arc(x, y, 15, 0, Math.PI * 2);
+      ctx.fillStyle = pos.color || "rgba(255, 0, 0, 0.7)";
+      ctx.fill();
+      ctx.lineWidth = 2;
+      ctx.strokeStyle = pos.stroke || "white";
+      ctx.stroke();
+    });
+
+    // 2. 自分が「聴衆(Audience)」なら、自分のローカルの円も重ねて描画する
+    const roleElement = document.querySelector('input[name="role"]:checked');
+    if (roleElement && roleElement.value === "audience") {
+      const myX = currentMousePos.x * overlayCanvas.width;
+      const myY = currentMousePos.y * overlayCanvas.height;
+      
+      ctx.beginPath();
+      ctx.arc(myX, myY, 15, 0, Math.PI * 2);
+      ctx.fillStyle = currentCursorColor;
+      ctx.fill();
+      ctx.lineWidth = 2;
+      ctx.strokeStyle = currentStrokeColor;
+      ctx.stroke();
+    }
   }
 })(); // 1

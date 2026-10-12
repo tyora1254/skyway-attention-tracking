@@ -1,4 +1,4 @@
-7628
+7783
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\core\util.d.cts134238719159367438 0
 72C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\filenamify134345845689170041 1
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\isArrayLike.js134238719173951126 0
@@ -74,9 +74,10 @@
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\postcss-value-parser\lib134238719928872186 1
 85C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\th.d.cts134238719156836692 0
 71C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\jsrsasign134238719119987575 1
-53C:\Users\hayab\Documents\99_code\skyway\tutorial\dist134345848013298382 1
+53C:\Users\hayab\Documents\99_code\skyway\tutorial\dist134347576412192691 1
 71C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\is-number134345845684442983 1
 88C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lightningcss\node\ast.d.ts134238719929548512 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\e4\0828c17deafe3166a06c1941cb56eccf2cd163134347573940676637 0
 105C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\web-animation.js134345847259161112 0
 88C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\dropLastWhile.js134238719160991827 0
 110C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\core\dist\media\stream\base.d.ts.map134238719235448088 0
@@ -90,8 +91,9 @@
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\en.js134238719161014207 0
 77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\lt.js134238719189480297 0
 95C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\esm\_to_primitive.js134238719933717254 0
-61C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules134345847263929409 1
+61C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules134345848041404219 1
 92C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\chrome-trace-event\LICENSE.txt134238719928334790 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\3d\1ba3b0d86c59035888f745df1751acadba2023134347544877136162 0
 80C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_baseNth.js134238719145659054 0
 70C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\msgpackr134238719930820487 1
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\regions\CL.js134345847245209477 0
@@ -101,8 +103,8 @@
 89C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v3\helpers\errorUtil.js134238719161303293 0
 79C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\flow.js134238719161509334 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\ta.js134238719175974243 0
+60C:\Users\hayab\Documents\99_code\skyway\tutorial\src\main.js134347576363375100 0
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\trim-repeated\index.js134345845687967924 0
-60C:\Users\hayab\Documents\99_code\skyway\tutorial\src\main.js134329375067555477 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\cache\LICENSE134238719924960246 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\he.js134238719161901162 0
 97C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\core\dist\config.js.map134238719235660233 0
@@ -116,6 +118,16 @@
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\az.cjs134238719132422680 0
 80C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_WeakMap.js134238719159805727 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\convert.js134238719160474858 0
+77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\index.js134238719173689259 0
+83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\dunder-proto\set.d.ts134238719119662604 0
+73C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\path-exists134345845684428461 1
+102C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\email-addresses\lib\email-addresses.d.ts134345845690283016 0
+70C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\asynckit134238719119516927 1
+83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\fr.cjs134238719133213471 0
+68C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache134345848041404219 1
+79C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\without.js134238719194372113 0
+88C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\_falseOptions.js134238719146379182 0
+84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\fa.d.ts134238719200221777 0
 97C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\esm\_async_iterator.js134238719932943217 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v3\ZodError.d.ts134238719275848523 0
 73C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\has-symbols134238719125537222 1
@@ -225,11 +237,6 @@
 106C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\mediasoup-client\lib\enhancedEvents.d.ts.map134238719159299800 0
 104C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lightningcss\node\browserslistToTargets.js134238719928752479 0
 67C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\async134345845694540241 1
-77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\index.js134238719173689259 0
-83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\dunder-proto\set.d.ts134238719119662604 0
-73C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\path-exists134345845684428461 1
-102C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\email-addresses\lib\email-addresses.d.ts134345845690283016 0
-70C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\asynckit134238719119516927 1
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\browserslist\parse.js134345847245791918 0
 90C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_baseIsArrayBuffer.js134238719145511097 0
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_escapeHtmlChar.js134238719146357278 0
@@ -282,8 +289,8 @@
 85C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod-validation-error\v3134238719133093857 1
 79C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\size.js134238719193154975 0
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\core-win32-x64-msvc134238719925494054 1
-77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\es-object-atoms134345847244321394 1
 71C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\fast-glob134345845688010639 1
+77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\es-object-atoms134345847244321394 1
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\regions\CG.js134345847245062974 0
 85C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\axios\dist\axios.min.js134345847246465328 0
 73C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4-mini134238719202975837 1
@@ -357,6 +364,7 @@
 88C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\src\v3\tests\Mocker.ts134238719206819727 0
 94C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\postcss-value-parser\lib\unit.js134238719928346776 0
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\fs-extra\lib\mkdirs134345845688888378 1
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\5a\00e5c8743301de3fff9f5decfcf223aed14b70134347544945463454 0
 95C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\model\dist\index.d.ts134238719135549502 0
 75C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\async\some.js134345845694364701 0
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\toInteger.js134238719193797721 0
@@ -394,6 +402,8 @@
 76C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\find-cache-dir134345845689049479 1
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\strip-outer\license134345845687892036 0
 69C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\find-up134345845684418437 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\61134347551778233525 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\refs\heads134347573943444727 1
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\orderBy.js134238719191911588 0
 101C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\transformer-babel\src\babel7.js134238719925644400 0
 79C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\uuid\dist\v5.d.ts134238719120350423 0
@@ -438,6 +448,7 @@
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\assignWith.js134238719160031022 0
 134C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\core\dist\plugin\internal\person\connection\messageBuffer.js134238719158448018 0
 78C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\isNull.js134238719174293093 0
+160C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\logs\refs\remotes\origin134347544938549295 1
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\uuid\dist\v6ToV1.d.ts134238719120370489 0
 69C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\globals134238719928279515 1
 68C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\globby134345845689149510 1
@@ -816,6 +827,7 @@
 90C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod-validation-error\LICENSE134238719131994318 0
 77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\isNaN.js134238719174253046 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\pt.js134238719162884396 0
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\74134347544938137288 1
 109C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\watcher\src\shared\BruteForceBackend.hh134238719930060992 0
 80C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\node-releases\data134345847243539756 1
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\safe-buffer\LICENSE134238719925253313 0
@@ -854,6 +866,7 @@
 74C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lmdb\open.js134238719932443403 0
 94C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod-validation-error\v3\index.js134238719132139508 0
 95C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod-validation-error\v3\index.mjs134238719133063788 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\a6\0d382120dc33c2e0a3bac632cef9843807132a134347544950090035 0
 123C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\core\dist\plugin\internal\unknown\member.d.ts.map134238719236746945 0
 80C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\path-type\index.js134345845687139587 0
 113C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\analytics-client\dist\payloadTypes.d.ts134238719192570592 0
@@ -962,6 +975,7 @@
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\src\v4\mini\checks.ts134238719191686343 0
 88C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\whatwg-fetch\fetch.js.flow134238719119129944 0
 85C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\mini\checks.d.ts134238719191444512 0
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\88134347573938777329 1
 113C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\mediasoup-client\lib\handlers\sdp\MediaSection.d.ts134238719159946986 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\lodash.min.js134238719189440524 0
 77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\hasIn.js134238719161753571 0
@@ -1022,6 +1036,7 @@
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\regions\LA.js134345847253871929 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\mini\iso.d.ts134238719206495833 0
 102C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\src\v4\classic\tests\default.test.ts134238719194256888 0
+159C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\hooks\pre-rebase.sample134345848054032715 0
 107C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lightningcss\node_modules\detect-libc\LICENSE134238719925002189 0
 76C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\node-fetch\lib134238719119516927 1
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\index.cjs134238719133334272 0
@@ -1046,6 +1061,7 @@
 76C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\deepmerge\dist134238719148582108 1
 76C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\math.js134238719189595113 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\az.js134238719160227272 0
+169C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\logs\refs\remotes\origin\gh-pages134347573983685568 0
 91C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\math-intrinsics\tsconfig.json134238719119778187 0
 88C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\classic\parse.d.cts134238719147426438 0
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\mini\schemas.d.cts134238719156778184 0
@@ -1107,6 +1123,7 @@
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\isUndefined.js134238719174448359 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\ua.cjs134238719144999427 0
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\de.d.ts134238719194191659 0
+142C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\config134347573942047735 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_hasUnicode.js134238719146525578 0
 88C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\msgpackr\dist\node.cjs.map134238719930494871 0
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\no.d.ts134238719210452242 0
@@ -1150,10 +1167,6 @@
 85C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\fa.d.cts134238719147180770 0
 97C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\events-alias\tests\add-listeners.js134238719119144961 0
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\package.json134238719194605793 0
-79C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\without.js134238719194372113 0
-88C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\_falseOptions.js134238719146379182 0
-84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\fa.d.ts134238719200221777 0
-83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\fr.cjs134238719133213471 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\fa.js134238719161352052 0
 103C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\src\v4\classic\tests\nullable.test.ts134238719210504906 0
 120C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\COPYRIGHT134238719928017614 0
@@ -1259,6 +1272,7 @@
 94C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\filename-reserved-regex\index.js134345845687778838 0
 120C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\analytics-client\dist\analyticsClient.d.ts.map134238719192236973 0
 85C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\sdp-transform\README.md134238719146784976 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\61\10a2676f609ebe0e0cabc4cc9b1db387601c13134347551778213529 0
 109C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\wasm-multi-memory.js134345847258984133 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\ota.js134238719162336124 0
 88C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\msgpackr\dist\index.js.map134238719930281854 0
@@ -1311,6 +1325,7 @@
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\semver\functions\valid.js134238719930717923 0
 99C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\types-internal\lib\Cache.d.ts134238719929538449 0
 96C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\src\v3\tests\recursive.test.ts134238719217750869 0
+141C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\index134347573943320691 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\kh.js134238719162041386 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\mk.cjs134238719133462856 0
 118C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\runtime-js\src\helpers\browser\preload-loader.js134238719933589684 0
@@ -1457,6 +1472,7 @@
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\locate-path\index.d.ts134345845684384644 0
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\async\forEachOfSeries.js134345845693486074 0
 85C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\locales\ur.d.cts134238719157540257 0
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\64134347551781493600 1
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\tslib\modules\index.d.ts134238719928975398 0
 102C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\isomorphic-fetch\fetch-npm-browserify.js134238719132919830 0
 78C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\reduce.js134238719192424925 0
@@ -1508,6 +1524,7 @@
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\core\doc.d.ts134238719194350851 0
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\core\errors.cjs134238719133124181 0
 116C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\has-tostringtag\test\shams\get-own-property-symbols.js134238719125150528 0
+78C:\Users\hayab\Documents\99_code\skyway\tutorial\dist\tutorial.8d913740.js.map134347573919546172 0
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v4\core\errors.d.cts134238719147128106 0
 85C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\reporter-tracer134238719935219382 1
 85C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\src\v4\core\core.ts134238719194071978 0
@@ -1739,6 +1756,7 @@
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\get-intrinsic\.nycrc134238719119129944 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v3\external.d.cts134238719147150722 0
 78C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\ws\lib\stream.js134345847243904033 0
+155C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\tutorial.8e8c491a.js.map134347573937763700 0
 88C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@nodelib\fs.walk\out\types134345845687352165 1
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v3\external.d.ts134238719200171761 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\toLength.js134238719193817750 0
@@ -1762,6 +1780,7 @@
 100C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\utility-types\dist\mapped-types.js.map134238719929110504 0
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\reporter-cli\src134238719929292363 1
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v3\locales\en.d.ts134238719194372113 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\ae\2d2deaf7977e01aa530aa758906ab591194d3e134347573940942081 0
 118C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\mediasoup-client\node_modules\sdp-transform\package.json134238719156647139 0
 97C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\axios\lib\platform\browser\index.js134345847250350659 0
 74C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\ws\README.md134345847244288864 0
@@ -1783,6 +1802,7 @@
 79C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\matches.js134238719189559782 0
 90C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\v3\helpers\enumUtil.d.ts134238719199923079 0
 119C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest4.c134238719931620861 0
+160C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\hooks\pre-receive.sample134345848054043951 0
 90C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\sdp-transform\lib\grammar.js134238719144777933 0
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_toSource.js134238719159728128 0
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lmdb\src\writer.cpp134238719931922300 0
@@ -1834,6 +1854,7 @@
 123C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\core\dist\media\stream\local\customVideo.d.ts.map134238719235768395 0
 107C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\src\v4\mini\tests\recursive-types.test.ts134238719217736249 0
 98C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\src\v4\mini\tests\string.test.ts134238719247267840 0
+165C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\logs\refs\remotes\origin\HEAD134345848232257044 0
 116C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_object_without_properties\package.json134238719931247184 0
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\src\v4\locales\ar.ts134238719187360017 0
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\regions\PY.js134345847256213437 0
@@ -1938,6 +1959,7 @@
 97C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\src\v4\core\tests\index.test.ts134238719203056824 0
 102C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb134238719932795949 1
 91C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\src\v4\core\tests\locales134238719251915254 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\55134347544876959191 1
 90C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\whatwg-url\lib\public-api.js134238719119436929 0
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\zod\src\v3\benchmarks\object.ts134238719210627152 0
 110C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\runtime-js\src\helpers\node\js-loader.js134238719933453695 0
@@ -2232,6 +2254,7 @@
 108C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\sfu-bot\dist\connection\index.d.ts134238719268594574 0
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\ws\lib\event-target.js134345847243549736 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\fastq\test\example.ts134345845687105349 0
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\97134347573940621462 1
 95C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\esm\_wrap_reg_exp.js134238719933842879 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\msgpackr\package.json134238719929962915 0
 79C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\ws\lib\limiter.js134345847243734291 0
@@ -2340,6 +2363,7 @@
 95C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\type-fest\source\stringified.d.ts134238719930387360 0
 122C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_object_without_properties_loose\package.json134238719931257173 0
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\debug\src\common.js134238719119240119 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\cf\4cc27606736848bfa3bf0c20e75c35bc9f9ed6134347573940897786 0
 90C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\watcher\node_modules134238719919933015 1
 85C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\awaitqueue\lib\index.js134238719124980064 0
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\uuid\dist-node\v1ToV6.js134238719119987575 0
@@ -2392,6 +2416,7 @@
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_baseIsSet.js134238719145572297 0
 127C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\.eslintrc.json134238719928644479 0
 77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\uuid\dist\v4.js134238719120068025 0
+145C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\logs\refs134345848232310402 1
 77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\uuid\dist\v5.js134238719120088025 0
 97C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\compressor-raw\package.json134238719925835842 0
 80C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\axios\lib\defaults134345847250853135 1
@@ -2508,6 +2533,7 @@
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_baseEvery.js134238719145215103 0
 85C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_getPrototype.js134238719146425176 0
 102C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\type-fest\source\conditional-except.d.ts134238719928842190 0
+74C:\Users\hayab\Documents\99_code\skyway\tutorial\dist\tutorial.8e8c491a.js134347544837968793 0
 100C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\type-fest\source\conditional-keys.d.ts134238719928975398 0
 99C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\fs-extra\lib\json\output-json-sync.js134345845688812392 0
 116C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\core\dist\plugin\interface\connection.d.ts134238719256567166 0
@@ -2564,6 +2590,7 @@
 91C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\transformer-babel\src134238719929825857 1
 89C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\to-regex-range\package.json134345845684559576 0
 101C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\ordered-binary\.idea\ordered-binary.iml134238719925622484 0
+130C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking134347573937337170 1
 102C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\diagnostic\test\markdown.test.js134238719928289998 0
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\to-regex-range\README.md134345845684871507 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\term-size\index.d.ts134238719928955208 0
@@ -2633,6 +2660,7 @@
 78C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\semver\functions134238719930717923 1
 90C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\events-alias\tests\errors.js134238719119387378 0
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\regions\SM.js134345847256981192 0
+155C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\tutorial.1fcc916e.js.map134347573937555407 0
 77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\semver\index.js134238719929697006 0
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\node-addon-api\README.md134238719929618500 0
 77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\semver\internal134238719930419745 1
@@ -2734,6 +2762,7 @@
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\semver\bin\semver.js134238719930533652 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\sdp-transform\.github134238719146808482 1
 88C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\isPlainObject.js134238719174337184 0
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\FETCH_HEAD134347573934102946 0
 116C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_class_private_method_init\package.json134238719930454902 0
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\dissoc.js134238719160930704 0
 80C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_isIndex.js134238719146585090 0
@@ -2921,6 +2950,7 @@
 78C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\async\reflect.js134345845694215225 0
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\gopd\.github\FUNDING.yml134238719119602752 0
 76C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\parcel\LICENSE134238719924990311 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\d2\ba8c79ba8f18e4c310640df14bbfe18b979609134347544877021727 0
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\parcel\package.json134238719928685585 0
 78C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\parcel\README.md134238719928802489 0
 78C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\p-limit\index.js134345845684204243 0
@@ -2947,6 +2977,7 @@
 119C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\core\dist\plugin\internal\unknown\member.d.ts134238719256988871 0
 77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\minBy.js134238719191706329 0
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lightningcss\node_modules134238719919933015 1
+151C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\tutorial.e6c589e1.js134347573937438580 0
 77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\p-limit\license134345845684193726 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_createBind.js134238719146167959 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\p-limit\package.json134345845684233886 0
@@ -3100,6 +3131,7 @@
 129C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages134238719951455715 0
 109C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\input-file-accept.js134345847252976433 0
 142C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.cmd134238719951480933 0
+174C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.parcel-cache\0e60893927c352b7-RequestGraph134345848232388793 0
 142C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.ps1134238719951480933 0
 134C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test134238719951480933 0
 161C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local\local-plugin.js134238719931524312 0
@@ -3185,6 +3217,7 @@
 79C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\mime-db\README.md134238719119516927 0
 105C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\micromatch\node_modules\picomatch\README.md134345845690680695 0
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\regions\RE.js134345847256253487 0
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\8f134347544938215456 1
 112C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\micromatch\node_modules\picomatch\lib\constants.js134345845690520907 0
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\regions\LU.js134345847254404814 0
 80C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lmdb\src\lmdb-js.h134238719932074525 0
@@ -3252,6 +3285,7 @@
 92C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\lib\Dependency.js134238719931019151 0
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\mediasoup-client\lib\index.d.ts134238719159916420 0
 92C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\jwt-decode\build\jwt-decode.js134238719132540847 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\20\59cda741baa7c151193b05ece6b081852bb5c9134347551781408338 0
 97C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\mediasoup-client\lib\index.d.ts.map134238719159410007 0
 94C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\mediasoup-client\lib\Logger.d.ts134238719159926473 0
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\async\dist\async.js134345845690328977 0
@@ -3341,6 +3375,7 @@
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\markdown-ansi\lib134238719925320039 1
 98C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\tls1-1.js134345847258104834 0
 107C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\mediasoup-client\lib\handlers\ortc\utils.d.ts134238719160139395 0
+140C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\logs134345848232300391 1
 97C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\watcher-win32-x64\README.md134238719925539181 0
 111C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\mediasoup-client\lib\handlers\ortc\utils.d.ts.map134238719159637523 0
 117C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\mediasoup-client\lib\handlers\fakeEvents\FakeEvent.d.ts134238719159815728 0
@@ -3650,6 +3685,7 @@
 79C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\fast-glob\LICENSE134345845687317038 0
 85C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\es-object-atoms\LICENSE134345847244153837 0
 96C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\colr.js134345847245596606 0
+159C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\hooks\pre-commit.sample134345848054022662 0
 75C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\seq.js134238719193105166 0
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\regions\NA.js134345847255236638 0
 75C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\set.js134238719193115216 0
@@ -3733,9 +3769,11 @@
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\fs-extra\lib\remove134345845688722446 1
 79C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\xorWith.js134238719194525112 0
 89C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\https-proxy-agent\README.md134238719131994318 0
+156C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\logs\refs\heads\main134345848232310402 0
 75C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\zip.js134238719194540191 0
 100C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\chrome-trace-event\dist\trace-event.js134238719925178193 0
 97C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\regions\alt-na.js134345847243819393 0
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\ae134345848262522429 1
 85C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\zipObjectDeep.js134238719194574879 0
 96C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\package-manager\src\Npm.js134238719929901028 0
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\transformer-css\LICENSE134238719933300585 0
@@ -3813,6 +3851,7 @@
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\es-errors\syntax.js134238719208211767 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_baseIsMap.js134238719145539225 0
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_baseIsMatch.js134238719145539225 0
+155C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\tutorial.e6c589e1.js.map134347573937763700 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_baseIsNaN.js134238719145549297 0
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\takeRight.js134238719193611804 0
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\watcher\src134238719930518593 1
@@ -3964,6 +4003,7 @@
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_DataView.js134238719146317756 0
 85C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_deburrLetter.js134238719146317756 0
 71C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lmdb\util134238719932504463 1
+165C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\hooks\push-to-checkout.sample134345848054043951 0
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_defineProperty.js134238719146337214 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_equalByTag.js134238719146347264 0
 89C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_escapeStringChar.js134238719146367268 0
@@ -4007,6 +4047,7 @@
 101C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@nodelib\fs.walk\out\readers\async.d.ts134345845687286967 0
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_isIterateeCall.js134238719146585090 0
 78C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_isKey.js134238719146595157 0
+174C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.parcel-cache\snapshot-0e60893927c352b7.txt134345848239183677 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_isKeyable.js134238719146605151 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_isLaziable.js134238719146615137 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_isMaskable.js134238719146615137 0
@@ -4064,6 +4105,7 @@
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_replaceHolders.js134238719146924380 0
 77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_root.js134238719146940908 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\bindAll.js134238719160152450 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\76\0ae8f0b279ffc32c0145871e35d0839fa02701134347544938177308 0
 80C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_safeGet.js134238719146940908 0
 96C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\error-overlay\package.json134238719930377349 0
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\_setCacheAdd.js134238719146962833 0
@@ -4115,6 +4157,7 @@
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\regions\CM.js134345847245282918 0
 80C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\after.js134238719159862319 0
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\reduce.js134238719192424925 0
+74C:\Users\hayab\Documents\99_code\skyway\tutorial\dist\tutorial.8d913740.js134347573919257448 0
 78C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\all.js134238719159872373 0
 111C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\css-backdrop-filter.js134345847245913032 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\allPass.js134238719159872373 0
@@ -4208,6 +4251,7 @@
 107C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_write_only_error\package.json134238719931685990 0
 91C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\get-proto\.github\FUNDING.yml134238719125371755 0
 99C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\colr-v1.js134345847245586544 0
+148C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\refs\remotes134345848232226874 1
 92C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\findLastIndexFrom.js134238719161338347 0
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\findLastKey.js134238719161362100 0
 78C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\find-up\index.js134345845684396226 0
@@ -4235,6 +4279,7 @@
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\functions.js134238719161636736 0
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\functionsIn.js134238719161657899 0
 78C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\get.js134238719161667958 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\f4\340b9f9a3c1c8c5f20d1b0da2d297d06145deb134347573941178005 0
 80C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\getOr.js134238719161680371 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\groupBy.js134238719161680371 0
 99C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\src\_super_prop_base.mjs134238719934613620 0
@@ -4274,6 +4319,7 @@
 91C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\intersectionWith.js134238719173792779 0
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\rust\lib\index.js134238719928396772 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\invertBy.js134238719173824917 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\a5\810cee501b0e5a8faa502e97ca00ac352c5bf0134347544936947011 0
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\invertObj.js134238719173839967 0
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lodash\fp\invoke.js134238719173839967 0
 72C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\types134238719928314777 1
@@ -4611,6 +4657,7 @@
 104C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\offline-apps.js134345847255560510 0
 114C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lmdb\node_modules\node-addon-api\tools\conversion.js134238719929252364 0
 117C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lmdb\node_modules\node-addon-api\tools\eslint-format.js134238719929332363 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\14\490e81fd195e4d1ea23e4e76a28839bc25d555134347544938007581 0
 80C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\lmdb\dict\dict.txt134238719932708657 0
 101C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\css-fixed.js134345847246341962 0
 113C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\test\fixtures\custom-format-infer-type134238719932845105 1
@@ -4867,6 +4914,7 @@
 91C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\h264-profile-level-id\LICENSE134238719119065134 0
 74C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\counter134238719925674397 1
 99C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\h264-profile-level-id\npm-scripts.mjs134238719119639149 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\3e\d7353c3c974e709664f43415fa5815c5ab23e5134347544877061828 0
 119C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\rtc-api-client\dist\infrastructure\api.js.map134238719175121823 0
 102C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\h264-profile-level-id\lib\index.d.ts.map134238719119485302 0
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\h264-profile-level-id\lib\tests134238719119758122 1
@@ -4978,6 +5026,7 @@
 114C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_tagged_template_literal\package.json134238719931412889 0
 79C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\fs-extra\lib\util134345845688899565 1
 89C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\fs-extra\lib\util\utimes.js134345845688909637 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\55\19499ee7bf53ad98020dedd7f6f5f7dd55f889134347544876939195 0
 95C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\fs-extra\lib\path-exists\index.js134345845688712445 0
 92C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\fs-extra\lib\move\move-sync.js134345845688781978 0
 98C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\tls1-2.js134345847258124843 0
@@ -5029,6 +5078,7 @@
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\escalade\sync\index.js134238719925612480 0
 92C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\fast-glob\out\utils\errno.d.ts134345845688137120 0
 89C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\fast-glob\out\utils\fs.d.ts134345845688172205 0
+167C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\hooks\sendemail-validate.sample134345848054053997 0
 92C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\fast-glob\out\utils\index.d.ts134345845688222229 0
 90C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\fast-glob\out\utils\index.js134345845687599736 0
 91C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\fast-glob\out\utils\path.d.ts134345845688284398 0
@@ -5165,6 +5215,7 @@
 90C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\electron-to-chromium\LICENSE134345847245052889 0
 99C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\sfu-bot\dist\index.js.map134238719239870550 0
 92C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\electron-to-chromium\README.md134345847245259833 0
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\02134347544938157296 1
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\dunder-proto\.nycrc134238719119119850 0
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\dunder-proto\package.json134238719119536938 0
 79C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\dunder-proto\test134238719119485302 1
@@ -5447,6 +5498,7 @@
 108C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\childnode-remove.js134345847245143930 0
 101C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\classlist.js134345847245219537 0
 123C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\client-hints-dpr-width-viewport.js134345847245239529 0
+78C:\Users\hayab\Documents\99_code\skyway\tutorial\dist\tutorial.8e8c491a.js.map134347544838225523 0
 104C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\console-time.js134345847245626601 0
 113C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\contentsecuritypolicy.js134345847245665915 0
 156C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules\parcel-config-local\index.json134238719932753869 0
@@ -5565,6 +5617,7 @@
 104C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\documenthead.js134345847248196750 0
 113C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\dom-manip-convenience.js134345847248206765 0
 108C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\domcontentloaded.js134345847248226766 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\64\1d33bc5521740afe9440544ff17e45c83c37dd134347551781483614 0
 100C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\download.js134345847248251802 0
 107C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\element-closest.js134345847248351818 0
 117C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\core\dist\plugin\internal\person\connection134238719257095596 1
@@ -5773,6 +5826,7 @@
 105C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\tabindex-attr.js134345847257601066 0
 100C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\template.js134345847257665186 0
 100C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\temporal.js134345847257675191 0
+164C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\refs\remotes\origin\gh-pages134347573983685568 0
 94C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\common\dist\error.js134238719164529776 0
 105C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\core\dist\skyway_core-latest.js134238719235211321 0
 100C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\caniuse-lite\data\features\testfeat.js134345847257685192 0
@@ -5870,6 +5924,7 @@
 99C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\call-bind-apply-helpers\test\index.js134238719119496875 0
 79C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\buffer\AUTHORS.md134238725360370447 0
 78C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\buffer\README.md134238725360438148 0
+140C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\HEAD134347573935756955 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\browserslist\error.js134345847245506616 0
 85C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\browserslist\index.d.ts134345847245830371 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\browserslist\index.js134345847245768075 0
@@ -5882,6 +5937,7 @@
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\braces\package.json134345845688413139 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\braces\lib\compile.js134345845688294400 0
 85C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\braces\lib\constants.js134345845688304398 0
+148C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\info\exclude134345848054064090 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\braces\lib\expand.js134345845688319177 0
 85C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\braces\lib\stringify.js134345845688377407 0
 75C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\bowser\es5.js134238719148892968 0
@@ -5929,6 +5985,7 @@
 80C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\axios\lib\utils.js134345847251033832 0
 103C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\src\requests\AssetRequest.js134238719930261848 0
 88C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\axios\lib\platform\browser134345847250350659 1
+173C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.parcel-cache\66aa66a37b47d72e-BundleGraph134345848232398776 0
 94C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\source-map\dist\types.js134238719929461734 0
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\axios\lib\platform\common134345847250895758 1
 89C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\axios\lib\platform\index.js134345847250361989 0
@@ -5956,6 +6013,7 @@
 96C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\axios\lib\helpers\isAbsoluteURL.js134345847250415221 0
 134C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_class_check_private_static_field_descriptor\package.json134238719930080195 0
 95C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\axios\lib\helpers\isAxiosError.js134345847250425213 0
+160C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\hooks\post-update.sample134345848054011188 0
 115C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\core\dist\media\stream\local\audio.js.map134238719235397774 0
 111C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\axios\lib\helpers\normalizeURLForProtocolCheck.js134345847250504038 0
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\axios\lib\helpers\null.js134345847250524036 0
@@ -6000,11 +6058,13 @@
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\awaitqueue\README.md134238719125083233 0
 91C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@lezer\lr\dist\constants.d.ts134238719928941508 0
 92C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\awaitqueue\lib\errors.d.ts.map134238719125040120 0
+141C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\hooks134345848054053997 1
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\awaitqueue\lib\errors.js134238719124969966 0
 91C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\awaitqueue\lib\index.d.ts.map134238719125053223 0
 120C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_class_apply_descriptor_update\package.json134238719929931032 0
 88C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\awaitqueue\lib\Logger.d.ts134238719125150528 0
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\awaitqueue\lib\Logger.js134238719124990128 0
+141C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\index.html134347573937347252 0
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\awaitqueue\lib\tests134238719125160593 1
 102C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\utils\src\dependency-location.js134238719929992909 0
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\awaitqueue\lib\types.d.ts134238719125180590 0
@@ -6133,6 +6193,7 @@
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\array-union\license134345845687633916 0
 108C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\esm\_object_without_properties.js134238719933589684 0
 86C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\array-union\package.json134345845687578054 0
+148C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\info134345848054134147 1
 103C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\transformer-posthtml\package.json134238719928431638 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\array-union\readme.md134345845687648980 0
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\ansi-styles\index.d.ts134238719928062869 0
@@ -6195,6 +6256,7 @@
 131C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\package-manager\test\fixtures\packages\peers-2.0\package.json134238719930598975 0
 101C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_class_private_field_set134238719930347356 1
 103C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_class_private_method_init134238719930444878 1
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\3e\69a9101749045c0f6937767f150eed9b7dac2c134347544938092188 0
 109C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\cjs\_skip_first_generator_next.cjs134238719932539514 0
 116C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_class_static_private_field_destructure134238719930518593 1
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\core\util.d.ts134238719929034336 0
@@ -6229,6 +6291,7 @@
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_set134238719931317172 1
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@lezer\lr\dist\index.d.ts134238719929046522 0
 94C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_set_prototype_of134238719931332223 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\6f134347544876919184 1
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_sliced_to_array134238719931352827 1
 110C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\src\_apply_decorated_descriptor.mjs134238719933933227 0
 99C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_sliced_to_array_loose134238719931362876 1
@@ -6256,6 +6319,7 @@
 103C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_wrap_reg_exp\package.json134238719931675966 0
 108C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_wrap_native_super\package.json134238719931665986 0
 111C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_wrap_async_generator\package.json134238719931655968 0
+143C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects134347573943759766 1
 120C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_unsupported_iterable_to_array\package.json134238719931610799 0
 98C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_type_of\package.json134238719931599744 0
 100C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_ts_values\package.json134238719931589754 0
@@ -6268,6 +6332,7 @@
 110C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\rtc-rpc-api-client\dist\rpc.d.ts.map134238719141782697 0
 106C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_to_property_key\package.json134238719931494304 0
 120C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_tagged_template_literal_loose\package.json134238719931432904 0
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\da134347544950040029 1
 106C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_super_prop_base\package.json134238719931382890 0
 125C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\node_modules134238719931524312 1
 112C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\_\_sliced_to_array_loose\package.json134238719931362876 0
@@ -6521,6 +6586,7 @@
 101C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\cjs\_iterable_to_array.cjs134238719932362577 0
 113C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\cjs\_iterable_to_array_limit_loose.cjs134238719932382579 0
 101C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\cjs\_non_iterable_rest.cjs134238719932412576 0
+172C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.parcel-cache\e7ea2b0289e73e80-AssetGraph134345848239132527 0
 110C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\cjs\_object_destructuring_empty.cjs134238719932432584 0
 103C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\cjs\_object_spread_props.cjs134238719932453454 0
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\model\LICENSE134238719135468428 0
@@ -6557,6 +6623,7 @@
 100C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\helpers\cjs\_write_only_error.cjs134238719932815941 0
 117C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\signaling-client\dist\utils\logger.d.ts.map134238719119859312 0
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\counter\package.json134238719925717144 0
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\06134347573943398724 1
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\counter\README.md134238719925534113 0
 110C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\core-win32-x64-msvc\swc.win32-x64-msvc.node134238719931954133 0
 80C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@swc\core\index.js134238719928562759 0
@@ -6613,6 +6680,7 @@
 114C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\signaling-client\dist\signalingClient.js134238719119557492 0
 111C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\signaling-client\dist\socket.d.ts.map134238719119957582 0
 109C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\signaling-client\dist\socket.js.map134238719119977579 0
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\f4134345848263401294 1
 101C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\signaling-client\dist\utils134238719120058041 1
 112C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\signaling-client\dist\version.d.ts.map134238719119987575 0
 106C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\signaling-client\dist\version.js134238719119639149 0
@@ -6790,6 +6858,7 @@
 109C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\src\requests\BundleGraphRequest.js134238719930800437 0
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\core\dist\index.mjs134238719255081028 0
 89C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\core\dist\media134238719256778144 1
+151C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\tutorial.8e8c491a.js134347573937438580 0
 95C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\core\dist\publication134238719256898768 1
 112C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\core\dist\media\stream\remote\audio.js134238719157878633 0
 96C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\core\dist\subscription134238719256912265 1
@@ -6928,6 +6997,7 @@
 101C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\common\dist\logger.d.ts.map134238719164695827 0
 102C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\common\dist\promise.d.ts.map134238719164715835 0
 96C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\common\dist\promise.js134238719164590596 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\92\c2f9dfb2b0ab4ebe5fbd18161a831f42449f3f134345848264908764 0
 95C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\common\dist\util.d.ts134238719165648547 0
 99C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\common\dist\util.d.ts.map134238719164746402 0
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@skyway-sdk\common\dist\util.js134238719164600588 0
@@ -6955,6 +7025,7 @@
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\feature-flags134238719928552704 1
 75C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\graph134238719929891032 1
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\namer-default134238719928654568 1
+167C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\hooks\prepare-commit-msg.sample134345848054043951 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\optimizer-svg134238719925786983 1
 82C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\packager-css134238719933086532 1
 78C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\profiler134238719929345783 1
@@ -7003,6 +7074,7 @@
 105C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\workers\src\threads\ThreadsChild.js134238719930634027 0
 88C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\graph\lib\index.js134238719929568512 0
 106C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\workers\src\threads\ThreadsWorker.js134238719930697951 0
+151C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\tutorial.1fcc916e.js134347573937510603 0
 106C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\workers\src\process\ProcessWorker.js134238719930419745 0
 88C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\workers\lib\bus.js134238719927997596 0
 95C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\workers\lib\childState.js134238719928832129 0
@@ -7240,6 +7312,7 @@
 97C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\runtime-browser-hmr\LICENSE134238719924970304 0
 102C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\runtime-browser-hmr\package.json134238719928802489 0
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\runtime-browser-hmr\src134238719928396772 1
+140C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\refs134345848232226874 1
 101C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\runtime-browser-hmr\src\loaders134238719928674558 1
 116C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\runtime-browser-hmr\src\loaders\hmr-runtime.js134238719925845923 0
 109C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\resolver-default\src\DefaultResolver.js134238719932653628 0
@@ -7272,6 +7345,7 @@
 91C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\error-overlay\LICENSE134238719925310044 0
 91C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\profiler\lib\types.js134238719929232307 0
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\plugin\LICENSE134238719924960246 0
+155C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\hooks\update.sample134345848054053997 0
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\plugin\lib\PluginAPI.js134238719925389831 0
 110C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\package-manager\test\fixtures\packages\a134238719930464882 1
 105C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\packager-wasm\src\wasm-sourcemap.js134238719928017614 0
@@ -7368,6 +7442,7 @@
 96C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\feature-flags\src\types.js134238719928466154 0
 98C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\feature-flags\lib\types.d.ts134238719928752479 0
 96C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\feature-flags\lib\types.js134238719928250761 0
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\e4134347544945914920 1
 80C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\events\lib134238719929100361 1
 84C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\events\LICENSE134238719924990311 0
 89C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\events\package.json134238719929322366 0
@@ -7382,10 +7457,12 @@
 95C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\error-overlay\src\effects134238719930347356 1
 96C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\error-overlay\src\index.js134238719929618500 0
 97C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\error-overlay\src\styles.js134238719930281854 0
+160C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\refs\remotes\origin\HEAD134345848232236842 0
 113C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\error-overlay\src\utils\generateAnsiHTML.js134238719928985387 0
 111C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\error-overlay\src\utils\getStackFrames.js134238719929232307 0
 111C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\error-overlay\src\utils\isInternalFile.js134238719929785860 0
 103C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\error-overlay\src\utils\parser.js134238719929982896 0
+150C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\COMMIT_EDITMSG134347573943365858 0
 114C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\error-overlay\src\effects\stackTraceLimit.js134238719930261848 0
 123C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\error-overlay\src\containers\RuntimeErrorContainer.js134238719930090257 0
 112C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\error-overlay\src\containers\StackFrame.js134238719930185369 0
@@ -7451,9 +7528,11 @@
 116C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\test\fixtures\custom-targets\package.json134238719932889938 0
 124C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\test\fixtures\custom-format-mismatch\package.json134238719932855185 0
 126C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\test\fixtures\custom-format-infer-type\package.json134238719932845105 0
+155C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\tutorial.16d7bae6.js.map134347573937763700 0
 109C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\test\fixtures\context\package.json134238719932815941 0
 132C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-multiple134238719929396600 0
 105C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\test\fixtures\config\subfolder134238719928999228 1
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\4f\f6824ffb45f943aba1f01468fe8576ee37b58c134345848264863370 0
 115C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc134238719929019284 0
 83C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\codeframe\src134238719929743317 1
 92C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\src\AssetGraph.js134238719930035884 0
@@ -7484,6 +7563,7 @@
 98C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\lib\loadParcelPlugin.js134238719931494304 0
 94C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\lib\ParcelConfig.js134238719931761079 0
 101C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\lib\ParcelConfig.schema.js134238719931781110 0
+199C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\pack\pack-551bb609a3e8f1f78ac498cca137b0ccbeca6e08.pack134347573939313383 0
 99C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@nodelib\fs.walk\out\readers\async.js134345845686177543 0
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\lib\projectPath.js134238719931944069 0
 87C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@parcel\core\lib\requests134238719932718731 1
@@ -7556,6 +7636,7 @@
 97C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@nodelib\fs.scandir\out\utils\fs.js134345845688304398 0
 102C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@nodelib\fs.scandir\out\utils\index.d.ts134345845688562539 0
 100C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@nodelib\fs.scandir\out\utils\index.js134345845688362358 0
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\5a134347544945485154 1
 100C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@nodelib\fs.scandir\out\types\index.js134345845688343488 0
 106C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@nodelib\fs.scandir\out\providers\async.d.ts134345845688464867 0
 104C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@nodelib\fs.scandir\out\providers\async.js134345845688097056 0
@@ -7599,6 +7680,78 @@
 92C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@lezer\common\dist\index.d.cts134238719928124300 0
 91C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@lezer\common\dist\index.d.ts134238719928931458 0
 89C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\@lezer\common\dist\index.js134238719928527752 0
+77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages134345848053971211 1
+135C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git134347573943464763 1
+141C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.gitignore134345848232368730 0
+144C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.parcel-cache134345848239173669 1
+151C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\tutorial.16d7bae6.js134347573937438580 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\da\bde648aa89ec1cb481daa1edf39ea3077f3322134347544950030421 0
+151C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\tutorial.8d913740.js134347573938393540 0
+155C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\tutorial.8d913740.js.map134347573937748726 0
+153C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.parcel-cache\data.mdb134345848239092544 0
+172C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.parcel-cache\e1c7b57f833f142e-AssetGraph134345848239122531 0
+153C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.parcel-cache\lock.mdb134345848239143552 0
+147C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\description134345848053981172 0
+140C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\info134345848054064090 1
+145C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\ORIG_HEAD134347573936644797 0
+147C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\packed-refs134345848232206842 0
+145C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\refs\tags134345848065287435 1
+155C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\refs\remotes\origin134347573983695565 1
+160C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\refs\remotes\origin\main134347544938549295 0
+155C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\refs\heads\gh-pages134347573943419611 0
+151C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\refs\heads\main134345848232290402 0
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\01134347551778434915 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\14134347544938032131 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\16134347551779292610 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\20134347551781438387 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\3d134347544877146156 1
+81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.bin\sdp-verify.cmd134238719277778379 0
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\3e134347544938107251 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\42134347544877115690 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\43134347573939647999 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\4f134345848264883630 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\76134347544938197308 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\8b134347544938082166 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\92134345848264930784 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\a3134347573943310664 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\a5134347544937785011 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\a6134347544950100018 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\ac134345848262129698 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\cf134347544946852930 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\d2134347544877031786 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\ee134347544877681782 1
+146C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\f5134347544876989184 1
+148C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\pack134345848232353803 1
+198C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\pack\pack-551bb609a3e8f1f78ac498cca137b0ccbeca6e08.idx134345848231797561 0
+198C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\pack\pack-551bb609a3e8f1f78ac498cca137b0ccbeca6e08.rev134345848231821966 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\f5\59d5efbb31ed86daf9feb0b01f0485aa121b15134347544876969161 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\ee\ea7d6158d774a112bef00290a68f8711daf2b1134347544877671776 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\ac\9c901558779100dfe60d8839f214da19059e9e134345848262119706 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\a3\d74432a33910d5f9a3c45e59cf8c79984cc129134347573943287002 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\97\76b39699f040f0fa1e44bc37f2e1eb95d4665e134347573940571481 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\8f\5d45ed74aa2608867c89c3fe7c25bccc89d593134347544938208153 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\8b\404030f63db49e073184f274ed7b5b688c7d4d134347544938072165 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\88\ed01e69ec0442a70c0153cc56f6e2809e4ffc5134347573938757334 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\74\e9472f945f119fbfddf1eff9b4965d097c9bcb134347544938117347 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\6f\cd1f2957dbbe47b030ed99f8259195a14fbd12134347544876898910 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\43\05d5810564962aaded6d457b2559b02c224ff7134347573939622877 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\42\63ffff6792bba644b6e9902f7df469fbc83530134347544877098880 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\16\7663892cd5ac0d30a91b8f20376f2a08204885134347573939183108 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\06\dcc8f4c8376972f62a4385016db08a6d5d1022134347573943385846 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\02\f54b7fdcb2d354d1768af2c1a04543763e5ddb134347544938147315 0
+185C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\objects\01\31a46da36eb16ec06894f552620625c7f48837134347573938817701 0
+145C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\logs\HEAD134347573943419611 0
+151C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\logs\refs\heads134345848264950404 1
+153C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\logs\refs\remotes134345848232251898 1
+165C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\logs\refs\remotes\origin\main134347544938559296 0
+160C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\logs\refs\heads\gh-pages134347573943434653 0
+163C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\hooks\applypatch-msg.sample134345848053991218 0
+159C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\hooks\commit-msg.sample134345848054001180 0
+167C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\hooks\fsmonitor-watchman.sample134345848054011188 0
+163C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\hooks\pre-applypatch.sample134345848054022662 0
+165C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\hooks\pre-merge-commit.sample134345848054032715 0
+73C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.bin\parcel134238719951442288 0
+157C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.cache\gh-pages\https!github.com!tyora1254!skyway-attention-tracking\.git\hooks\pre-push.sample134345848054032715 0
 79C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.bin\browserslist134345847260065235 0
 78C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.bin\detect-libc134238719951432226 0
 94C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.bin\download-lmdb-prebuilds.cmd134238719951442288 0
@@ -7613,17 +7766,19 @@
 112C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.bin\node-gyp-build-optional-packages-optional.ps1134238719951442288 0
 103C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.bin\node-gyp-build-optional-packages.cmd134238719951432226 0
 103C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.bin\node-gyp-build-optional-packages.ps1134238719951432226 0
-73C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.bin\parcel134238719951442288 0
 77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.bin\parcel.ps1134238719951442288 0
-81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.bin\sdp-verify.cmd134238719277778379 0
 81C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.bin\sdp-verify.ps1134238719277766082 0
 77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.bin\semver.cmd134238719951442288 0
 77C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.bin\semver.ps1134238719951442288 0
 93C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.bin\update-browserslist-db.ps1134345847260020148 0
 71C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.bin\uuid134238719277778379 0
 75C:\Users\hayab\Documents\99_code\skyway\tutorial\node_modules\.bin\uuid.cmd134238719277778379 0
-64C:\Users\hayab\Documents\99_code\skyway\tutorial\dist\index.html134345848013008779 0
+64C:\Users\hayab\Documents\99_code\skyway\tutorial\dist\index.html134347576411836103 0
+74C:\Users\hayab\Documents\99_code\skyway\tutorial\dist\tutorial.16d7bae6.js134347551763782665 0
+78C:\Users\hayab\Documents\99_code\skyway\tutorial\dist\tutorial.16d7bae6.js.map134347551764042472 0
 74C:\Users\hayab\Documents\99_code\skyway\tutorial\dist\tutorial.1fcc916e.js134329375069198994 0
 78C:\Users\hayab\Documents\99_code\skyway\tutorial\dist\tutorial.1fcc916e.js.map134329375069307542 0
+74C:\Users\hayab\Documents\99_code\skyway\tutorial\dist\tutorial.3dacb3b1.js134347576411876092 0
+78C:\Users\hayab\Documents\99_code\skyway\tutorial\dist\tutorial.3dacb3b1.js.map134347576412192691 0
 74C:\Users\hayab\Documents\99_code\skyway\tutorial\dist\tutorial.e6c589e1.js134345848013028754 0
 78C:\Users\hayab\Documents\99_code\skyway\tutorial\dist\tutorial.e6c589e1.js.map134345848013288373 0
